@@ -1,0 +1,5 @@
+{
+  "name": "GST Invoice Extractor AI",
+  "description": "An AI-powered tool to deeply analyze PDF, DOC, and CSV files to extract detailed GST invoice information into structured tables, which can be downloaded in CSV format.",
+  "requestFramePermissions": []
+}
